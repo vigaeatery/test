@@ -8,4 +8,4 @@ steps:
   commands:
   - pip install -r requirements.txt
   - pytest
-- python test_sample.py
+  - python test_sample.py
