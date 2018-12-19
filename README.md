@@ -1,11 +1,11 @@
 [![Build Status](https://cloud.drone.io/api/badges/albertboston/test/status.svg)](https://cloud.drone.io/albertboston/test)
 
 Simple guide:
-- Step 1: cd into Desktop/STR
-- Step 2: git pull
-- Step 3: git add .
-- Step 4: git commit -m 'insert str describing commit here'
-- Step 5: git push
+- Step 1: ```cd``` into Desktop/STR
+- Step 2: ```git pull```
+- Step 3: ```git add .```
+- Step 4: ```git commit -m 'insert str describing commit here'```
+- Step 5: ```git push```
 
 - **git pull** ensures that the folder you're working on is up to date with the files that are on github
 - **git add .** adds all modified and new files to your commit staging queue
